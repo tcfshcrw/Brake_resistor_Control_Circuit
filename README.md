@@ -18,7 +18,7 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 | CRST030N10N(IRF530N)| 1|
 | SR5100| 2|
 | ZD10-012 diode| 1|
-| IM358G OP| 1|
+| LM358G OP| 1|
 | PC817| 1|
 | 1/4W 10K Ohm| 1|
 | 1/4W 100 Ohm| 1|
