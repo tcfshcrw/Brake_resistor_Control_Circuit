@@ -37,5 +37,5 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 | 5W 2 Ohm resistor| 1|
 | SR5100| 2|
 | 1W 1K Ohm| 2|
-| IRF9540N(TIP147)| 1|
+| IRF9540N| 1|
 
