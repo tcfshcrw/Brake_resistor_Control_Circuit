@@ -1,4 +1,5 @@
 # Brake_resistor_Control_Circuit
+This project is a sub project for [DIY FFB Pedal](https://github.com/ChrGri/DIY-Sim-Racing-FFB-Pedal)
 
 OP driven circuit credit belong to Adilrepas(discord)<br>
 Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account-protection-circuit-for.html and provide by mnu-warning<br>
