@@ -29,6 +29,7 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 
 # P channel Mosfet driven Brake resistor circuit
 ![](Pch-mosfet_driven-circuit/Pch-mos-driven.png)<br>
+## IRF9540N mosfet driven<br>
 
 | Item           |  Quantity |
 :------------------------- | :-------------------------
@@ -38,4 +39,15 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 | SR5100| 2|
 | 1W 1K Ohm| 2|
 | IRF9540N| 1|
+
+## TIP147T mosfet driven<br>
+
+| Item           |  Quantity |
+:------------------------- | :-------------------------
+| Cap 1000uf 63V| 1|
+| XT30PW-M| 4|
+| 5W 33 Ohm resistor| 1|
+| SR5100| 2|
+| 1W 1K Ohm| 2|
+| TIP147T| 1|
 
