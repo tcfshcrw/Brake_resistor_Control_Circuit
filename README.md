@@ -41,6 +41,8 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 | 1W 1K Ohm| 2|
 | IRF9540N| 1|
 
+Note: if mosfet failed during homing, replace 5W 2Ohm into 5W 10Ohm<br>
+
 ## TIP147T mosfet driven<br>
 
 | Item           |  Quantity |
