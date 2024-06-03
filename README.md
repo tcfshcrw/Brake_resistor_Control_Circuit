@@ -36,12 +36,12 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 :------------------------- | :-------------------------
 | Cap 1000uf 63V| 1|
 | XT30PW-M| 4|
-| 5W 2 Ohm resistor| 1|
+| 5W 10 Ohm resistor| 1|
 | SR5100| 2|
 | 1W 1K Ohm| 2|
 | IRF9540N| 1|
 
-Note: if mosfet failed during homing, replace 5W 2Ohm into 5W 10Ohm<br>
+Edit: Change the brake resistor to 10 Ohm for safety.<br>
 
 ## TIP147T mosfet driven<br>
 
