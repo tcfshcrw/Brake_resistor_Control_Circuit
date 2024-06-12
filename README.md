@@ -15,7 +15,7 @@ Pch Mosfet circuit is from: https://drmrehorst.blogspot.com/2022/05/bank-account
 | Cap 1000uf 50V| 1|
 | XT30PW-M| 4|
 | Micro-USB connector SMT| 1|
-| 5W 2 Ohm resistor| 1|
+| 5W 10 Ohm resistor| 1|
 | CRST030N10N(IRF530N)| 1|
 | SR5100| 2|
 | ZD10-012 diode| 1|
